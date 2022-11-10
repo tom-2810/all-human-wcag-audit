@@ -3,15 +3,17 @@
 
 # WCAG Audit 
 
-Doe een WCAG test op een bestaande website en rapporteer daar over.
+Ik heb gekozen om de website van [Kwantum](https://kwantum.nl/) te testen op Accessibility.
+Hiervoor heb ik de Lighthouse tool gebruikt van Chrome. En heb handmatig door de website genavigeerd.
 
-## Titel Website
+<img src="https://user-images.githubusercontent.com/112861614/198998741-5509fc95-d27e-431f-bb9c-87a5242f626c.png" width="400px">
 
-Welke website heb je getest? Beschrijf de website en upload een screenshot. 
 
-Toon een screenshot van het Lighthouse Accessibility test resultaat.
+# 📜 Inhoudsopgave
 
-Schrijf een een samenvatting van de test bevindingen.
+## [Lighthouse Audit](https://github.com/tom-2810/all-human-wcag-audit/wiki/Lighthouse-Audit)
+
+## [Handmatige test](https://github.com/tom-2810/all-human-wcag-audit/wiki/Handmatige-test)
 
 
 ## Licentie
